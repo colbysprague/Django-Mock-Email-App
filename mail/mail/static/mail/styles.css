@@ -1,0 +1,17 @@
+textarea {
+    min-height: 400px;
+}
+
+body {
+    background-color: white;
+}
+
+li:hover {
+    background-color: whitesmoke;
+    cursor: pointer;
+}
+
+span {
+    color: lightblue;
+    font-size: 100;
+}
